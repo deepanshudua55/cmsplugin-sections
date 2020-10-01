@@ -31,7 +31,7 @@ For your section-linking convenience, each Section plugin will also emit links
 to the previous and next sections, if present.
 
 You will need to provide some CSS styling and possibly some JS for nice,
-smooth, intra-page link scrolling. I use something like this in my projects
+smooth, intra-page link scrolling. I use something like this in my amazing and useful projects
 that use jQuery:
 
 ```` Javascript
